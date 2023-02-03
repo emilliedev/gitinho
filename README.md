@@ -1,13 +1,13 @@
 # Dicionário do gitinho
 
-Clonar projeto ```git clone [link do repo]```
-Entrar na pasta ```cd [nome do repo]```
-Abrir código no VS Code ```code .```
-Entrar na branch ```git checkout [nome da branch]```
-Criar branch  ```git checkout -b [nome da branch sem caracteres especiais]```
-Adicionar mudanças remotamente ```git add -all```
-Descrição do commit  ```git commit -m '[descrição do commit]'```
-Enviar mudanças remotamente ```git push```
+Clonar projeto ```git clone [link do repo]``` <br>
+Entrar na pasta ```cd [nome do repo]``` <br>
+Abrir código no VS Code ```code .``` <br>
+Entrar na branch ```git checkout [nome da branch]``` <br>
+Criar branch  ```git checkout -b [nome da branch sem caracteres especiais]``` <br>
+Adicionar mudanças remotamente ```git add -all``` <br>
+Descrição do commit  ```git commit -m '[descrição do commit]'``` <br>
+Enviar mudanças remotamente ```git push``` <br>
 
 # Bem vindo ao tutorial do gitinho!
 
@@ -22,7 +22,7 @@ Enviar mudanças remotamente ```git push```
 
 1. Confira antes de tudo na parte inferior esquerda da tela do vscode ou na linha do prompt se está na branch **QA** (para navegar entre branches, use ```git checkout [nome da branch]```);<br>
 2. Quando receber uma tarefa e completar ela, digite ```git checkout -b [nome da branch sem caracteres especiais]```
-3. Ao estar dentro da sua branch, faça o básico de mandar suas alterações, como ```git add -all``` + ```git commit -m '[descrição do commit]'``` + ```git push```
+3. Ao estar dentro da sua branch, faça o básico de mandar suas alterações, como ```git add -all``` (ou ```git add .```) + ```git commit -m '[descrição do commit]'``` + ```git push```
 OBS: Boas práticas envolvem utilizar um prefixo de acordo com sua tarefa no COMMIT, como diz na imagem abaixo. A utililização dele seria por exemplo: 'style/landing page'
 
 ![image](https://user-images.githubusercontent.com/110927737/216641612-d7be2c9b-e0d0-4ef0-989b-561868cf56c9.png)
