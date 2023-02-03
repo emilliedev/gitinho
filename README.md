@@ -1,3 +1,14 @@
+# Dicionário do gitinho
+
+Clonar projeto ```git clone [link do repo]```
+Entrar na pasta ```cd [nome do repo]```
+Abrir código no VS Code ```code .```
+Entrar na branch ```git checkout [nome da branch]```
+Criar branch  ```git checkout -b [nome da branch sem caracteres especiais]```
+Adicionar mudanças remotamente ```git add -all```
+Descrição do commit  ```git commit -m '[descrição do commit]'```
+Enviar mudanças remotamente ```git push```
+
 # Bem vindo ao tutorial do gitinho!
 
 ## Primeiro contato - Clonando e acessando o repositório localmente
